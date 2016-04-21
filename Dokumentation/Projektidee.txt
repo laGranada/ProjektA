@@ -1,4 +1,4 @@
-=== Projektidee laGranada, 2016-04-05 ===
+﻿=== Projektidee laGranada, 2016-04-05 ===
 
 Mir ist leider bis jetzt nichts eingefallen.
 
@@ -83,3 +83,11 @@ Es ist dabei sehr wahrscheinlich, dass Sie (vielleicht auch erst später währen
 
 Viele Grüße,
 Markus Alpers
+
+
+Mir ist doch noch was eingefallen.
+Ich würde gerne das Spiel Snake machen.
+Der/ Die Nutzer/in steuert eine Schlang, mit der er/sie Essen aufsammeln kann.
+Jedesmal wenn die Schlange essen aufnimmt wird sie etwas länger.
+Der/ die Spieler/in darf mit der Schlange nicht das Spielfeldrand berühren und auch nicht den Schwanz der Schlange.
+Zudem gibt es auch noch vergiftetes Essen, das man nicht aufnehmen darf.
