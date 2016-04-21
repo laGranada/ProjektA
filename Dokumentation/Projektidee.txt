@@ -84,7 +84,7 @@ Es ist dabei sehr wahrscheinlich, dass Sie (vielleicht auch erst später währen
 Viele Grüße,
 Markus Alpers
 
-
+=== Projektidee laGranada, 2016-04-21 ===
 Mir ist doch noch was eingefallen.
 Ich würde gerne das Spiel Snake machen.
 Der/ Die Nutzer/in steuert eine Schlang, mit der er/sie Essen aufsammeln kann.
